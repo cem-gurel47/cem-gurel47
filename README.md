@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cem</h1>
-<h3 align="center">A passionate frontend developer from Turkey/Canada</h3>
+<h3 align="center">A passionate frontend developer from Turkey / Canada</h3>
 
 - 🔭 I’m currently working on [Hocaya Notum](https://frosty-darwin-7aa73c.netlify.app/)
 
