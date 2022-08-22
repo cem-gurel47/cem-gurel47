@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Tailwind CSS and Testing**
 
-- 📫 How to reach me **gurel.cem374@hotmail.com**
+- 📫 How to reach me **gurel.cem374@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
