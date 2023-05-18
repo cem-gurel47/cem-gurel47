@@ -1,9 +1,4 @@
 <h1 align="center">Hi 👋, I'm Cem</h1>
-<h3 align="center">A passionate frontend developer from Turkey / Canada</h3>
-
-- 🔭 I’m currently working on [Hocaya Notum](https://www.hocayanotum.com/)
-
-- 🌱 I’m currently learning **React Native**
 
 - 📫 How to reach me **gurel.cem374@gmail.com**
 
